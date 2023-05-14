@@ -1,4 +1,5 @@
 # sample-repo
 mainブランチで追加
 更新
-github上で更新2回目
+conflict-remote上で更新
+
