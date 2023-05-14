@@ -1,4 +1,4 @@
 # sample-repo
 更新
-new-featureで変更
+no-fast-forwardで変更
 
